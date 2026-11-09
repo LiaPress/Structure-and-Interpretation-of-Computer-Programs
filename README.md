@@ -3,7 +3,7 @@ author:   Harold Abelson; Gerald Jay Sussman; Julie Sussman
 
 email:    LiaScript@web.de
 
-version:  0.1.0
+version:  1.0.0
 
 language: en
 
